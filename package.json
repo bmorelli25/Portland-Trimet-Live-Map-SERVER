@@ -1,0 +1,24 @@
+{
+  "name": "portland-trimet-live-map-server",
+  "version": "1.0.0",
+  "description": "Server for Portland Trimet Live Map",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmorelli25/Portland-Trimet-Live-Map-SERVER.git"
+  },
+  "author": "Brandon Morelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmorelli25/Portland-Trimet-Live-Map-SERVER/issues"
+  },
+  "homepage": "https://github.com/bmorelli25/Portland-Trimet-Live-Map-SERVER#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}
